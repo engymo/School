@@ -1,0 +1,11 @@
+/* stylelint-disable at-rule-no-unknown */
+@import "tailwindcss";
+/* stylelint-enable at-rule-no-unknown */
+*{
+    box-sizing: border-box;
+  
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background:linear-gradient(to right,rgb(255, 199, 196),rgb(215, 239, 255),rgb(243, 248, 248));
+}
